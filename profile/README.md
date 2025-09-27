@@ -1,7 +1,11 @@
 # Who am I
+
 ~~A 24-year-old student~~
+
 An amateur developer
+
 A game lover
+
 AL-1S is SOOOOOO kawaii!
 
 # Skills
